@@ -1,0 +1,53 @@
+
+ .yellow{
+    color: #f07c18
+}
+.css-1km43m6-BtnContent {
+    color: rgb(255, 152, 0);
+    padding: 2px;
+}
+.announcement{
+    background-color: #FFA400;
+    color: white;
+    opacity: 0.6;
+    border-radius: 0 0 3px 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+    z-index: 2;
+    transition: all 0.3s ease-in-out;
+    border: 0;
+    margin-right: 20px;
+}
+.bi{
+    margin-right: 5px;
+}
+ .css-zccqv1 {
+    cursor: pointer;
+    border: 1px solid rgb(255, 152, 0);
+    background: transparent;
+    box-shadow: none;
+    height: 28px;
+    padding: 0px 10px;
+    font-size: 14px;
+}
+.badge-msg{
+    position: relative;
+    top: 5px;
+}
+a.nav-link {
+    color: rgb(55, 71, 79);
+}
+@media only screen and (max-width: 992px) {
+    .justify-content-end {
+        justify-content: flex-start!important;
+        display: block;
+    }
+    .announcement{
+        margin-bottom: 15px;
+    }
+    ul.nav.nav-tabs {
+        display: block;
+    }
+    
+
+  
